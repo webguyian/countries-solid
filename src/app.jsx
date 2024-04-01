@@ -7,6 +7,7 @@ import './app.css';
 function App() {
   return (
     <Router
+      base={import.meta.env.SERVER_BASE_URL}
       preload={false}
       root={(props) => (
         <div class="flex flex-col text-[#111517] bg-[#fafafa] dark:text-white dark:bg-[#202c37]">
