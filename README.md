@@ -1,32 +1,36 @@
-# SolidStart
+# Countries: SolidJS
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+**Frontend Mentor - REST Countries API with color theme switcher solution**
 
-## Creating a project
+This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-```bash
-# create a new project in the current directory
-npm init solid@latest
+## Overview
 
-# create a new project in my-app
-npm init solid@latest my-app
-```
+### The challenge
 
-## Developing
+Users should be able to:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- See all countries from the API on the homepage
+- Search for a country using an `input` field
+- Filter countries by region
+- Click on a country to see more detailed information on a separate page
+- Click through to the border countries on the detail page
+- Toggle the color scheme between light and dark mode
 
-```bash
-npm run dev
+### Screenshot
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+![Screenshot](./screenshot.jpg)
 
-## Building
+### Built with
 
-Solid apps are built with _presets_, which optimise your project for deployment to different environments.
+- Semantic HTML5 markup
+- CSS Grid
+- Mobile-first workflow
+- [SolidJS](https://www.solidjs.com/) with [SolidStart](https://start.solidjs.com/) - JS framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different preset, add it to the `devDependencies` in `package.json` and specify in your `app.config.js`.
+## Author
 
-## This project was created with the [Solid CLI](https://solid-cli.netlify.app)
+- Website - [Web Guy Ian](https://webguyian.com/)
+- GitHub - [@webguyian](https://github.com/webguyian)
+- Frontend Mentor - [@webguyian](https://www.frontendmentor.io/profile/webguyian)
