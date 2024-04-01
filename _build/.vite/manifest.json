@@ -11,7 +11,7 @@
     "name": "index"
   },
   "src/routes/country/[id].jsx?pick=default&pick=$css": {
-    "file": "assets/_id_-DllUXUa4.js",
+    "file": "assets/_id_-BJ62NALg.js",
     "name": "_id_",
     "src": "src/routes/country/[id].jsx?pick=default&pick=$css",
     "isEntry": true,
@@ -22,7 +22,7 @@
     ]
   },
   "src/routes/index.jsx?pick=default&pick=$css": {
-    "file": "assets/index-DUBgM8kf.js",
+    "file": "assets/index-BrpTaVko.js",
     "name": "index",
     "src": "src/routes/index.jsx?pick=default&pick=$css",
     "isEntry": true,
@@ -33,7 +33,7 @@
     ]
   },
   "virtual:#vinxi/handler/client": {
-    "file": "assets/client-xWQlYAAw.js",
+    "file": "assets/client-CQEy3Nu8.js",
     "name": "client",
     "src": "virtual:#vinxi/handler/client",
     "isEntry": true,
