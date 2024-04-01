@@ -1,44 +1,44 @@
 {
-  "_createAsync-DC4aD4o9.js": {
-    "file": "assets/createAsync-DC4aD4o9.js",
+  "_createAsync-C64tTjj8.js": {
+    "file": "assets/createAsync-C64tTjj8.js",
     "name": "createAsync",
     "imports": [
-      "_index-B7oWGaDf.js"
+      "_index-Dk6Hz7A5.js"
     ]
   },
-  "_index-B7oWGaDf.js": {
-    "file": "assets/index-B7oWGaDf.js",
+  "_index-Dk6Hz7A5.js": {
+    "file": "assets/index-Dk6Hz7A5.js",
     "name": "index"
   },
   "src/routes/country/[id].jsx?pick=default&pick=$css": {
-    "file": "assets/_id_-B0dSEaWo.js",
+    "file": "assets/_id_-DllUXUa4.js",
     "name": "_id_",
     "src": "src/routes/country/[id].jsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-B7oWGaDf.js",
-      "_createAsync-DC4aD4o9.js"
+      "_index-Dk6Hz7A5.js",
+      "_createAsync-C64tTjj8.js"
     ]
   },
   "src/routes/index.jsx?pick=default&pick=$css": {
-    "file": "assets/index-cRmM5gFX.js",
+    "file": "assets/index-DUBgM8kf.js",
     "name": "index",
     "src": "src/routes/index.jsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-B7oWGaDf.js",
-      "_createAsync-DC4aD4o9.js"
+      "_index-Dk6Hz7A5.js",
+      "_createAsync-C64tTjj8.js"
     ]
   },
   "virtual:#vinxi/handler/client": {
-    "file": "assets/client-DnN-mrww.js",
+    "file": "assets/client-xWQlYAAw.js",
     "name": "client",
     "src": "virtual:#vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_index-B7oWGaDf.js"
+      "_index-Dk6Hz7A5.js"
     ],
     "dynamicImports": [
       "src/routes/index.jsx?pick=default&pick=$css",
