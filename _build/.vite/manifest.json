@@ -11,7 +11,7 @@
     "name": "index"
   },
   "src/routes/country/[id].jsx?pick=default&pick=$css": {
-    "file": "assets/_id_-BJ62NALg.js",
+    "file": "assets/_id_-C5G6vAph.js",
     "name": "_id_",
     "src": "src/routes/country/[id].jsx?pick=default&pick=$css",
     "isEntry": true,
@@ -33,7 +33,7 @@
     ]
   },
   "virtual:#vinxi/handler/client": {
-    "file": "assets/client-CQEy3Nu8.js",
+    "file": "assets/client-wvr5rKKj.js",
     "name": "client",
     "src": "virtual:#vinxi/handler/client",
     "isEntry": true,
